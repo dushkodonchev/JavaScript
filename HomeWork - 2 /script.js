@@ -1,6 +1,6 @@
-let year = prompt("Please enter your year when you were born: ");
+let bornYear = prompt("Please enter your year when you were born: ");
 
-let chineseZodiac = (year-4)%12;
+let chineseZodiac = (bornYear-4)%12;
 
 if (chineseZodiac === 0){
     console.log("In the Chinese Zodiac you are: Rat.");
