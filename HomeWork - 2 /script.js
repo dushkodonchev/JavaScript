@@ -27,11 +27,11 @@ else if(chineseZodiac === 5){
 }
 
 else if(chineseZodiac === 6){
-    console.log("In the Chinese Zodiac you are: Horse");
+    console.log("In the Chinese Zodiac you are: Horse.");
 }
 
 else if(chineseZodiac === 7){
-    console.log("In the Chinese Zodiac you are: Goat");
+    console.log("In the Chinese Zodiac you are: Goat.");
 }
 
 else if(chineseZodiac === 8){
