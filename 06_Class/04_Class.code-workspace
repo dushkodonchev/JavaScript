@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../03_Class/HomeWork - 3"
+		},
+		{
+			"path": "../code/example1"
+		},
+		{
+			"path": "../../05_Class"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "05_Class"
+	}
+}
